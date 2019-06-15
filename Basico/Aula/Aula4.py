@@ -1,5 +1,6 @@
 ''''
 Exemplos de Uso do da estrutura de repetição For
+            '-'
 '''
 
 for c in range(6, 0, -1):
