@@ -1,6 +1,6 @@
 # Toda função tem ()
 # Números[usados em operacoes ] não estão em "", mensagens sim
-#Exempolo 
+#Exemplo 
 
 a = "Hello "
 b = "Word!"
