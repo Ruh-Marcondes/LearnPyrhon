@@ -2,6 +2,7 @@
 # Simples e Compostas 
 # If Else
 # progrmas não são bipolares... Como eu...
+
 from os import system
 import time
 
