@@ -9,6 +9,7 @@ While True:
 '''
 # while 
 # break - pode quebrar um laço
+# '-'
 cont =  1
 while cont <=10:
     cont += 1 
