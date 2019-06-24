@@ -1,3 +1,0 @@
-# Uhulllllllllllllll
-# * >>>>>>>> 
-# >>> Git no Udemy
