@@ -6,7 +6,7 @@ import time
 os.system('echo.')
 time.sleep(1)
 
-print(" Hipotenusa do triângulo retângulo 9cm 4cm hcm ")
+print(" Hipotenusa do triângulo retângulo 5cm 4cm hcm ")
 h = ((9**2) + (4**2))
 h = math.sqrt(h)
 h = math.floor(h)

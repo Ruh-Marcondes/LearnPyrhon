@@ -8,11 +8,4 @@ print(' \'-\' '*90)
 time.sleep(3)
 os.system('cls')
 
-n = 1
-
-
-def calczeroul()
-
-    for c in range(i+10, p):
-    c =+
 
