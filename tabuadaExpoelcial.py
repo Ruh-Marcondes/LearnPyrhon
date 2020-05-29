@@ -14,11 +14,21 @@ def base():
 
 def expoen():
      n = int(input(' Escolha o número do expoente: '))
-     for c in range(0,11):
-        s = c**n
-        print(f' {c} elevado a {n}  é  {s}')
-        sleep (0.2)
-        
+     if n < 0:
+         for c in range(0,11):
+             d = -1*n
+             if c==0:
+                 s = 0
+             else:
+                  s = 1/(c**d)   
+             print(f'{c} elevado a {n} = {s}')
+             sleep (0.2)
+     else:
+        for c in range(0,11):
+            s = c**n
+            print(f' {c} elevado a {n}  é  {s}')
+            sleep (0.2)
+
 
 
 def opc():
